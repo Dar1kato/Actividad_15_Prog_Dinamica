@@ -1,7 +1,7 @@
 # Problema del corte de varillas (Rod Cutting)
 
-**Nombre:** `[Escribe aquí tu nombre completo]`
-**Matrícula:** `[Escribe aquí tu matrícula]`
+Daniel Peña Cruz
+200818
 
 ---
 
